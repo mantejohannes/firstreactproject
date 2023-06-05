@@ -10,7 +10,7 @@ const WhyMeSection = () => {
          load while also working at the university's <br></br>admissions office,<br></br> <br></br>I learned how to multitask and 
          prioritize responsibilities. From what I understand, <br></br>in your fast-paced organization, the abilities
           to effectively prioritize tasks and <br></br>work with self-discipline are significant components of success.</p>
-      <a href="https://sophabuso.netlify.app/contact.html" className="schedule-button">Schedule a Call</a>
+      <a href="https://www.linkedin.com/messaging/thread/2-OGJmZDFiZDgtYjAzYi00ZTJhLWJiYTEtMWViOGNkNzM3NjMwXzAxMw==/" className="schedule-button">Schedule a Call</a>
     </div>
   );
 };
